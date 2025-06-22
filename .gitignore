@@ -1,0 +1,20 @@
+# javaファイル成果物
+*.class
+*.jar
+
+#vsCode設定
+.vscode/
+
+#CPHの内部管理フォルダ
+.cph/
+
+#OSの一時ファイル
+.cph/
+
+#実行時の一時ファイル
+input.txt
+output.txt
+
+#不要なビルドディレクトリ
+bin/
+lib/
